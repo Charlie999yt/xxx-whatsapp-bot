@@ -1,7 +1,7 @@
 {
-  "name": "xxx-whatsapp-bot",
+  "name": "whatsapp-bot",
   "description": "Whatsapp bot that can convert images and videos into sticker, send crypto price updates, stock market updates, search internet for any stickers and send random stickers, download youtube and pinterest videos and do many more things.",
-  "repository": "https://github.com/akm-akm/xxx-whatsapp-bot",
+  "repository": "https://github.com/Charlie999yt/xxx-whatsapp-bot",
   "logo": "https://raw.githubusercontent.com/akm-akm/xxx-whatsapp-bot/master/docs/images/xxxlogo.jpeg",
   "keywords": [
     "whatsapp",
@@ -31,7 +31,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Your whatsapp number with which you will send command to the bot. It must start with the country code without + sign.",
-      "value": "919709094733"
+      "value": "919556416715"
     },
     "WEBSITE_PASSWORD": {
       "description": "The password you want to use for the bot website that will be used to login.",
